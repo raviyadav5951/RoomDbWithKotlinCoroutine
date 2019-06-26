@@ -1,8 +1,8 @@
 package com.test.roomdbkotlin.activity
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.test.roomdbkotlin.R
 import com.test.roomdbkotlin.database.AppDatabase
 import com.test.roomdbkotlin.entity.StudentEntity

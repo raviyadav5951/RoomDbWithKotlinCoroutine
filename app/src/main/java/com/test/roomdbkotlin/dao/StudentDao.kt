@@ -1,6 +1,6 @@
 package com.test.roomdbkotlin.dao
 
-import android.arch.persistence.room.*
+import androidx.room.*
 import com.test.roomdbkotlin.entity.StudentEntity
 
 /**

@@ -2,8 +2,8 @@ package com.test.roomdbkotlin.activity
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.util.Log
+import androidx.appcompat.app.AppCompatActivity
 import com.test.roomdbkotlin.R
 import com.test.roomdbkotlin.database.AppDatabase
 import kotlinx.android.synthetic.main.activity_main.*
